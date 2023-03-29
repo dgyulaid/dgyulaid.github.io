@@ -1,0 +1,53 @@
+{
+    "identity": [
+        {
+            "field": "Name",
+            "value": "Character name"
+        },
+        {
+            "field": "Alignment",
+            "value": "L-N-C/G-N-E"
+        },
+        {
+            "field": "Diety",
+            "value": "Diety/patron"
+        },
+        {
+            "field": "Origin",
+            "value": "Origin"
+        },
+        {
+            "field": "Level",
+            "value": "Level"
+        }
+    ],
+    "ability_scores": {
+        "str": "",
+        "dex": "",
+        "con": "",
+        "int": "",
+        "wis": "",
+        "cha": ""
+    },
+    "hp": {
+        "max": "",
+        "current": ""
+    },
+    "skills": [
+        {
+            "name": "Appraise",
+            "untrained": true,
+            "ability": "int",
+            "rank": "",
+            "class": false
+        }
+    ],
+    "equipment": {
+        "armor":
+        [
+            {
+                "name": "Studded leather"
+            }
+        ]
+    }
+}
