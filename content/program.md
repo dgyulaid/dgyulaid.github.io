@@ -3,7 +3,7 @@
 ---
 ### 13:00 - Edéd
 
-* A megfáradt utazókat szívesen látja az Örömanya ebédre
+* A megfáradt utazókat szívesen látja a Menyasszony családja ebédre
 
 * Cím: Tündérszikla panzió, 2080 Pilisjászfalu, Dombhát utca 1
 
